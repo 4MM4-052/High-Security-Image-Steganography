@@ -124,14 +124,16 @@ Hai thành phần trên hoạt động liên kết trong cùng một hệ thốn
       <img width="757" height="377" alt="image" src="https://github.com/user-attachments/assets/25d07af5-618e-44a9-aa3d-11d1f14114fc" />
 
 3. **Tính năng mã hóa - giải mã ảnh bằng AES hoặc Blowfish**
-  1. **Mã hóa ảnh bằng AES**
-     
-     <img width="818" height="395" alt="image" src="https://github.com/user-attachments/assets/8bdef00a-0cff-4e1d-ae3c-d76721d1e4b6" />
+   1. **Mã hóa ảnh bằng AES**
+  
+      <img width="818" height="395" alt="image" src="https://github.com/user-attachments/assets/8bdef00a-0cff-4e1d-ae3c-d76721d1e4b6" />
 
-  3. **Giải mã ảnh bằng AES**
-     
-     <img width="843" height="408" alt="image" src="https://github.com/user-attachments/assets/38ee2f05-1cd1-460f-b556-6f1c7bd536a8" />
+   3. **Giải mã ảnh bằng AES**
+  
+      <img width="843" height="408" alt="image" src="https://github.com/user-attachments/assets/38ee2f05-1cd1-460f-b556-6f1c7bd536a8" />
 
+
+     
 
          
 
